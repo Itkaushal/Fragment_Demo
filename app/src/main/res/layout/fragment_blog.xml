@@ -1,0 +1,17 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Blog"
+    android:orientation="vertical"
+    android:background="#9E9D24"
+    android:layout_gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="About Blog"
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
